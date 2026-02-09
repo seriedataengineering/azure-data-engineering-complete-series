@@ -306,7 +306,6 @@ Data Engineer | Azure Specialist
 - 🎓 Certificações: [Lista de certificações]
 - 💼 LinkedIn: [linkedin.com/in/ronaldo-ramires]
 - 📧 Email: seriedataengineering@outlook.com
-- 🌐 Portfolio: [seu-portfolio.dev]
 
 ---
 
