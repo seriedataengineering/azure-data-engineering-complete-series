@@ -122,6 +122,7 @@ Esta é a **série de livros mais completa em português** sobre Engenharia de D
 - Multi-region deployments (HA, DR)
 - Hybrid architectures (on-premise + cloud)
 - Cost optimization at scale
+- **Migration Azure → Microsoft Fabric** (estratégias e patterns)
 
 #### **Performance & Scalability**
 - Query optimization (Spark, Synapse, SQL)
@@ -205,7 +206,9 @@ Cada capítulo inclui:
 
 ### **Opção 3: Certificação Azure**
 - Volume 1 cobre ~70% do **DP-203** (Azure Data Engineer Associate)
-- Volume 2 complementa com tópicos avançados
+  - ⚠️ **Importante:** Microsoft está gradualmente migrando para **DP-700** (Fabric Data Engineer Associate)
+  - DP-203 ainda válido, mas DP-700 é o caminho recomendado para novos candidatos
+- Volume 2 complementa com tópicos avançados (Fabric, Real-time Analytics)
 - Volume 3 prepara para **DP-500** (Azure Enterprise Data Analyst)
 
 ---
@@ -306,6 +309,7 @@ Data Engineer | Azure Specialist
 - 🎓 Certificações: [Lista de certificações]
 - 💼 LinkedIn: [linkedin.com/in/ronaldo-ramires]
 - 📧 Email: seriedataengineering@outlook.com
+- 🌐 Portfolio: [seu-portfolio.dev]
 
 ---
 
@@ -416,8 +420,15 @@ Se este material foi útil para você:
 - [Data Engineering Brasil (Discord)](https://discord.gg/dataengineeringbr)
 
 ### **Certificações**
-- [DP-203: Azure Data Engineer Associate](https://learn.microsoft.com/certifications/azure-data-engineer/)
+- [DP-203: Azure Data Engineer Associate](https://learn.microsoft.com/certifications/azure-data-engineer/) *(válido até migração completa)*
+- [DP-700: Fabric Data Engineer Associate](https://learn.microsoft.com/certifications/fabric-data-engineer-associate/) **(🆕 Recomendado - novo caminho oficial)**
 - [DP-500: Azure Enterprise Data Analyst](https://learn.microsoft.com/certifications/azure-enterprise-data-analyst-associate/)
+
+**💡 Sobre a transição DP-203 → DP-700:**
+- Microsoft está gradualmente encorajando migração para Microsoft Fabric
+- DP-203 permanece válido, mas DP-700 é o caminho futuro
+- DP-700 inclui: Fabric Data Factory, Lakehouses, Real-time Analytics, OneLake
+- Este material cobre fundamentos aplicáveis a ambas certificações
 
 ---
 
