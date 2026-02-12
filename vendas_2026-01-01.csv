@@ -1,0 +1,6 @@
+data,produto,quantidade,preco_unitario,vendedor
+2026-01-01,Notebook Dell,2,3500.00,João Silva
+2026-01-01,Mouse Logitech,5,85.00,Maria Santos
+2026-01-01,Teclado Mecânico,3,450.00,João Silva
+2026-01-01,Monitor LG 27”,1,1200.00,Maria Santos
+2026-01-01,Webcam HD,4,250.00,Pedro Oliveira
